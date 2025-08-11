@@ -21,6 +21,7 @@ The "orders," "customers," "products," "Sheet1," and "Sheet2" tabs contain the r
 The "Dashboard" tab is the primary view for analysis.
 
 Use the slicer to view data for specific cities.
+![image_alt](https://github.com/prajnaraju/Data-Analytics-/blob/aaa7798fcceef5335267077ee7713e1d2e0629ff/17549069279113403515152876110870.jpg)
 
 # Road Accident Analysis Dashboard (Power BI)
 This Power BI dashboard provides a comprehensive analysis of road accidents, focusing on casualties, accident types, locations, and year-over-year comparisons.
@@ -49,6 +50,7 @@ This is a read-only dashboard for viewing.
 Clicking on specific visuals (e.g., a bar in a chart or a location on the map) will cross-filter other visuals on the page.
 
 Use the slicers at the top of the dashboard to filter the data by specific criteria if available.
+![image_alt](https://github.com/prajnaraju/Data-Analytics-/blob/aaa7798fcceef5335267077ee7713e1d2e0629ff/17549068361687396575428165759349.jpg)
 
 # Pizza Sales SQL Queries
 This document contains a set of SQL queries designed for a pizza sales data analysis project. These queries are categorized into Key Performance Indicators (KPIs) and various trends and performance metrics, providing a comprehensive overview of the pizza sales data.
